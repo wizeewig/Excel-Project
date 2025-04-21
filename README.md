@@ -1,3 +1,6 @@
 # Excel-Project
+●	Designed an **interactive sales dashboard using Pivot Tables**, improving decision-making for stakeholders.
+●	**Automated data cleaning & transformation with Power Query**, reducing manual processing time by 50%.
+●	Implemented **conditional formatting & data validation** for error-free reporting.
 
-![image](https://github.com/user-attachments/assets/a4389f51-10fb-4871-8f3f-fa47e1bc568c)
+![image](https://github.com/user-attachments/assets/7e356166-d15c-4db8-b0e4-dadaee7f3376)
